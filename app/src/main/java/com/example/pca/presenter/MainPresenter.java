@@ -4,6 +4,7 @@ import com.example.pca.base.BaseActivity;
 import com.example.pca.base.BasePresenter;
 import com.example.pca.interfaces.IMain;
 import com.example.pca.interfaces.net.INetCallBack;
+import com.example.pca.interfaces.net.URLConstant;
 import com.example.pca.model.MainModel;
 import com.example.pca.model.data.BannerBean;
 import com.example.pca.view.MainActivity;
